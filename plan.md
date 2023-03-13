@@ -8,4 +8,4 @@
 * [ ] Choose a good job scheduling package.
 * [ ] Choose a good DSL tool
 * [ ] Choose a good data server tool (Separate computers):
-    * Decision: HDS. Accept?
+    * Decision: HDF5. Accept?
