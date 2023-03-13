@@ -18,4 +18,4 @@ Applications:
 * Model selection (exhaustive explxoration + GIL-tracing)
 * Model (simp) engineering: (Markov-Blanket engineering).
 
-Choice? Probbaly SYCL.
+Choice? Probbaly SyCL.
