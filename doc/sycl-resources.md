@@ -35,4 +35,7 @@ g: how to compile sycl on docker
 
 https://github.com/danchitnis/sycl-container
 
+```bash
 docker pull danchitnis/sycl-container:llvm-dev
+docker run -it -v $(pwd):/root/ danchitnis/sycl-container:llvm-dev clang++ -fsycl ./SyCL/histogram.cpp
+```
