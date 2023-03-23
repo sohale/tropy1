@@ -27,3 +27,12 @@ https://link.springer.com/book/10.1007/978-1-4842-5574-2
 
 https://www.youtube.com/watch?v=fxCnpNVPazk
 CppCon 2020: Heterogeneous Programming in C++ with SYCL 2020 - Michael Wong & Gordon Brown
+
+
+https://stackoverflow.com/questions/62110463/using-sycl-1-2-in-macos
+
+g: how to compile sycl on docker
+
+https://github.com/danchitnis/sycl-container
+
+docker pull danchitnis/sycl-container:llvm-dev
